@@ -91,18 +91,12 @@ model.evaluate(x_test, y_test)
     782/782 [==============================] - 1s 867us/step - loss: 0.5251 - acc: 0.7516
 
 
-
-
-
     [0.5251463055610657, 0.7515599727630615]
-
-
 
 
 ```python
 %tensorboard --logdir logs
 ```
-
 
     <IPython.core.display.Javascript object>
 
