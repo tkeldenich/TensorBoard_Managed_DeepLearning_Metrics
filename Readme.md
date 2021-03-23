@@ -1,5 +1,5 @@
 ```python
-#À utiliser lors si l'on exécute plus d'une fois le notebook
+#À utiliser si l'on exécute plus d'une fois le notebook
 #cela supprimes les logs précédemment enregistrés
 #%rm -rf ./logs/
 ```
